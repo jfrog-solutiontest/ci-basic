@@ -4,4 +4,5 @@ go 1.14
 
 require (
 	github.com/jfrog-solutiontest/ci-basic-dep1 v1.75.1
+        github.com/coreos/etcd v3.3.22+incompatible
 )
