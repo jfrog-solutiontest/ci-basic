@@ -3,6 +3,6 @@ module github.com/jfrog-solutiontest/ci-basic
 go 1.14
 
 require (
-	github.com/jfrog-solutiontest/ci-basic-dep1 v1.104.1
+	github.com/jfrog-solutiontest/ci-basic-dep1 v1.105.1
         github.com/coreos/etcd v3.3.22+incompatible
 )
